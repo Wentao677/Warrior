@@ -1,6 +1,6 @@
 # Warrior
 
-![Short Demo](demo\demo.gif)
+![Short Demo](demo/demo.gif)
 
 [Full Demo Video](https://youtu.be/NChk-esmsVk) | [Source Code](https://drive.google.com/file/d/1nhR25RMLn09DV9rfoe7B3D-qy4Wqjj9-/view)
 
